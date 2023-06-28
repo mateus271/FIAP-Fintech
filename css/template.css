@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Bebas Neue, sans-serif;
+    src: url(../assets/fonts/BebasNeue-Regular.ttf);
+}
+
+:root {
+    --background-color: #222933;
+    --title-color-lighter: #f1f4b2;
+    --title-color: #DBE33E;
+}
